@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(90deg, hsl(341, 65%, 48%), hsl(285, 40%, 38%));
+
+}
+header{
+    background-image: linear-gradient(90deg, hsl(341, 65%, 48%), hsl(285, 40%, 38%));
+}
+.btn-dark{
+    background-image: linear-gradient(90deg, hsl(341, 65%, 48%), hsl(285, 40%, 38%));
+
+}
